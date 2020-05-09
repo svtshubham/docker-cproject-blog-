@@ -31,5 +31,4 @@ volumes:
     wp_storage_new:
     mysql_storage_new:
 
-WORDPRESS_DB_HOST: dbos
         
